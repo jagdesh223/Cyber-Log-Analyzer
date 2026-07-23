@@ -1,0 +1,22 @@
+[
+    {
+        "ip": "192.168.1.10",
+        "username": "root, admin",
+        "attempts": 3,
+        "score": 40,
+        "risk": "MEDIUM",
+        "attack_type": "Brute Force Login",
+        "first_seen": "Jul 20 10:12:30",
+        "last_seen": "Jul 20 10:12:35"
+    },
+    {
+        "ip": "10.0.0.12",
+        "username": "admin",
+        "attempts": 3,
+        "score": 10,
+        "risk": "LOW",
+        "attack_type": "Brute Force Login",
+        "first_seen": "Jul 20 10:17:15",
+        "last_seen": "Jul 20 10:18:50"
+    }
+]

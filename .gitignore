@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+uploaded.log
+security_report.csv
+venv/
+.DS_Store
+
